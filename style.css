@@ -1,0 +1,19 @@
+h1{
+    color:darkblue;
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+h2{
+    text-color:blue;
+}
+h3{
+    text-color:rgb(15, 63, 128);
+    font-style: initial;
+}
+div{
+    background-color: rgb(92, 121, 42);
+}
+.more{
+    text-color:maroon;
+}
